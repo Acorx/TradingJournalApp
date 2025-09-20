@@ -1,0 +1,18 @@
+{
+  "name": "trading-journal-backend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "cors": "latest",
+    "dotenv": "latest",
+    "firebase-admin": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "latest"
+  }
+}
